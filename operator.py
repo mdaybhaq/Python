@@ -1,0 +1,7 @@
+print("My Age :"+ str(12))
+print(123+213)
+print(7-3)
+print(5/3)
+print(5//3)
+print(2**2)
+print(5%3)
